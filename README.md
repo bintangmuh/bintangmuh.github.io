@@ -1,2 +1,2 @@
-# bintangmuh.github.io-
-Public
+# bintangmuh.github.io
+Public - Free
